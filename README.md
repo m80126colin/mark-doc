@@ -1,1 +1,3 @@
-# mark-doc
+# MarkDoc
+
+Write markdown with MathJax and extra parameters.

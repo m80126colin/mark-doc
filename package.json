@@ -1,0 +1,22 @@
+{
+  "name": "mark-doc",
+  "version": "0.0.1",
+  "description": "Write markdown with MathJax and extra parameters.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m80126colin/mark-doc.git"
+  },
+  "author": "m80126colin <m80126colin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m80126colin/mark-doc/issues"
+  },
+  "homepage": "https://github.com/m80126colin/mark-doc#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "markdown-it": "^8.3.1",
+    "markdown-it-mathjax": "^2.0.0",
+    "yamljs": "^0.2.10"
+  }
+}
